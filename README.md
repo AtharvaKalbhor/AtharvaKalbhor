@@ -1,4 +1,4 @@
-### Heyyy, 👋 I am Atharva Kalbhor, an ML Enthusiast.
+## Heyyy, 👋 I am Atharva Kalbhor, an ML Enthusiast. <br/>
 
 ## ⚡ I have a great experience in 
 
@@ -22,19 +22,22 @@
 + 🗿 *Leader*
 + ⏱ *Punctual*
 + 🏑 *Team Player*
-
+<br/>
+<br/>
 ## 👨‍💻 I’m currently learning ...
 1. 🐱‍🏍👀 Computer Vision (CNNs)
 
 2. 💻🖼 Image Processing (Pillow and OpenCV)
 3. 🦾📉 Machine Learning Algorithms (KNNs)
 4. 📕📖 Data Structures
-
+<br/>
+<br/>
 ## 🔭 I’m currently working on ...
 *  Data Structures and Algorithms, Image Processing for my "ParkSmart" Project.
 
 * Computer Vision and Machine Learning for "Indian Council of Agricultural Research NRCG-MITADT" Research Project. 
-
+<br/>
+<br/>
 ## 💬 Ask me about ...
 📊 Machine Learning and Deep Learning<br/>
 📚 Data Structures<br/>
@@ -43,7 +46,8 @@
  🚵‍ Nature Places to visit<br/>
  🌮 Food Addas to chill<br/>
  ☄ Quantum Theory and Physics
-
+<br/>
+<br/>
 ## 📫 How to reach me: ...
     ✉  akalbhor20@gmail.com
 
@@ -51,15 +55,4 @@
     
 <!--
 **AtharvaKalbhor/AtharvaKalbhor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 
-- 
-- 😄 Pronouns: ...
--  Fun fact: ...
 -->
