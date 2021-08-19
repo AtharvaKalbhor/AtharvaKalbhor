@@ -24,6 +24,7 @@
 + 🏑 *Team Player*
 <br/>
 <br/>
+
 ## 👨‍💻 I’m currently learning ...
 1. 🐱‍🏍👀 Computer Vision (CNNs)
 
@@ -32,12 +33,14 @@
 4. 📕📖 Data Structures
 <br/>
 <br/>
+
 ## 🔭 I’m currently working on ...
 *  Data Structures and Algorithms, Image Processing for my "ParkSmart" Project.
 
 * Computer Vision and Machine Learning for "Indian Council of Agricultural Research NRCG-MITADT" Research Project. 
 <br/>
 <br/>
+
 ## 💬 Ask me about ...
 📊 Machine Learning and Deep Learning<br/>
 📚 Data Structures<br/>
@@ -48,6 +51,7 @@
  ☄ Quantum Theory and Physics
 <br/>
 <br/>
+
 ## 📫 How to reach me: ...
     ✉  akalbhor20@gmail.com
 
