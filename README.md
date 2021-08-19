@@ -24,7 +24,7 @@
 + 🏑 *Team Player*
 <br/>
 
-## 👨‍💻 I’m currently learning ...
+## 👨‍💻 I’m currently Learning ...
 1. 🐱‍🏍👀 Computer Vision (CNNs)
 
 2. 💻🖼 Image Processing (Pillow and OpenCV)
@@ -32,7 +32,7 @@
 4. 📕📖 Data Structures
 <br/>
 
-## 🔭 I’m currently working on ...
+## 🔭 I’m currently Working on ...
 *  Data Structures and Algorithms, Image Processing for my "ParkSmart" Project.
 
 * Computer Vision and Machine Learning for "Indian Council of Agricultural Research NRCG-MITADT" Research Project. 
