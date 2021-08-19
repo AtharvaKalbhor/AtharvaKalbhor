@@ -1,6 +1,6 @@
 ## Heyyy, 👋 I am Atharva Kalbhor, an ML Enthusiast. <br/>
 
-## ⚡ I have a great experience in 
+## ⚡ I have an Experience in ... 
 
 <img align="left" alt="React" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="React" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
@@ -23,7 +23,6 @@
 + ⏱ *Punctual*
 + 🏑 *Team Player*
 <br/>
-<br/>
 
 ## 👨‍💻 I’m currently learning ...
 1. 🐱‍🏍👀 Computer Vision (CNNs)
@@ -32,13 +31,11 @@
 3. 🦾📉 Machine Learning Algorithms (KNNs)
 4. 📕📖 Data Structures
 <br/>
-<br/>
 
 ## 🔭 I’m currently working on ...
 *  Data Structures and Algorithms, Image Processing for my "ParkSmart" Project.
 
 * Computer Vision and Machine Learning for "Indian Council of Agricultural Research NRCG-MITADT" Research Project. 
-<br/>
 <br/>
 
 ## 💬 Ask me about ...
@@ -49,7 +46,6 @@
  🚵‍ Nature Places to visit<br/>
  🌮 Food Addas to chill<br/>
  ☄ Quantum Theory and Physics
-<br/>
 <br/>
 
 ## 📫 How to reach me: ...
