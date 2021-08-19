@@ -13,6 +13,7 @@
 <br/>
 <br/>
 <br/>
+
 ## ⚔ Words that Describe Me ...
 	
 + ✨ *Creative* 
@@ -45,6 +46,7 @@
 
 ## 📫 How to reach me: ...
     ✉  akalbhor20@gmail.com
+
     📞 +91 8806418224
     
 <!--
