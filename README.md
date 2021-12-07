@@ -33,7 +33,7 @@
 <br/>
 
 ## 🔭 I’m currently Working on ...
-*  Data Structures and Algorithms, Image Processing for my "ParkSmart" Project.
+*  Computer Vision, Data Structures and Algorithms, Image Processing for my "ParkSmart" Project.
 
 * Computer Vision and Machine Learning for "Indian Council of Agricultural Research NRCG-MITADT" Research Project. 
 <br/>
