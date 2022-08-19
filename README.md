@@ -26,11 +26,11 @@
 <br/>
 
 ## 👨‍💻 I’m currently Learning ...
-1. 🐱‍🏍👀 Computer Vision (CNNs)
-
-2. 💻🖼 Image Processing (Pillow and OpenCV)
-3. 🦾📉 Machine Learning Algorithms (KNNs)
-4. 📕📖 Data Structures
+1. 🐱‍🏍👀 Computer Vision (Object Detection and Semantic Segmentation)
+2. 🚢🏡 Data Analytics (Pandas, Numpy)
+3. 💻🖼 Image Processing (Pillow and OpenCV)
+4. 🦾📉 Machine Learning Algorithms (KNNs)
+5. 📕📖 Data Structures
 <br/>
 
 ## 🔭 I’m currently Working on ...
@@ -41,7 +41,6 @@
 
 ## 💬 Ask me about ...
 📊 Machine Learning and Deep Learning<br/>
-📚 Data Structures<br/>
 🙋‍♂️ Mimicry<br/>
  📖 Books to Read<br/>
  🚵‍ Nature Places to visit<br/>
@@ -51,7 +50,7 @@
 
 ## 📫 How to reach me: ...
     ✉  akalbhor20@gmail.com
-
+    ln  https://www.linkedin.com/in/atharva-kalbhor/
     📞 +91 8806418224
     
 <!--
